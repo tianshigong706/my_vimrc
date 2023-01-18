@@ -2,7 +2,7 @@
 "            Global config
 "===============================================
 " Sets how many lines of history VIM has to remember
-set history = 5000
+set history=5000
 
 " Highlight the text column of the cursor
 set cursorcolumn
@@ -18,7 +18,7 @@ syntax on
 
 " fold settings
 set foldenable
-set foldmethod = manual
+set foldmethod=manual
 
 " Number of spaces that a <Tab> counts for while performing editing operations
 set softtabstop=4
